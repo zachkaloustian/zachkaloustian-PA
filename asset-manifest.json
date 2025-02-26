@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/zachkaloustian.github.io/static/css/main.6098e44d.css",
-    "main.js": "/zachkaloustian.github.io/static/js/main.21d870ca.js",
-    "static/js/453.3cadb23c.chunk.js": "/zachkaloustian.github.io/static/js/453.3cadb23c.chunk.js",
-    "static/media/my-image.jpg": "/zachkaloustian.github.io/static/media/my-image.0975cc259af2be1b6a09.jpg",
-    "index.html": "/zachkaloustian.github.io/index.html",
-    "main.6098e44d.css.map": "/zachkaloustian.github.io/static/css/main.6098e44d.css.map",
-    "main.21d870ca.js.map": "/zachkaloustian.github.io/static/js/main.21d870ca.js.map",
-    "453.3cadb23c.chunk.js.map": "/zachkaloustian.github.io/static/js/453.3cadb23c.chunk.js.map"
+    "main.css": "/zachkaloustian.github.io/5.6-performance-assessment/static/css/main.6098e44d.css",
+    "main.js": "/zachkaloustian.github.io/5.6-performance-assessment/static/js/main.08abd069.js",
+    "static/js/453.3cadb23c.chunk.js": "/zachkaloustian.github.io/5.6-performance-assessment/static/js/453.3cadb23c.chunk.js",
+    "static/media/my-image.jpg": "/zachkaloustian.github.io/5.6-performance-assessment/static/media/my-image.0975cc259af2be1b6a09.jpg",
+    "index.html": "/zachkaloustian.github.io/5.6-performance-assessment/index.html",
+    "main.6098e44d.css.map": "/zachkaloustian.github.io/5.6-performance-assessment/static/css/main.6098e44d.css.map",
+    "main.08abd069.js.map": "/zachkaloustian.github.io/5.6-performance-assessment/static/js/main.08abd069.js.map",
+    "453.3cadb23c.chunk.js.map": "/zachkaloustian.github.io/5.6-performance-assessment/static/js/453.3cadb23c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6098e44d.css",
-    "static/js/main.21d870ca.js"
+    "static/js/main.08abd069.js"
   ]
 }
